@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 22:10:18 On 21.07.2022
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [OrangePi_Zero2.PcbDoc]
+   Generated File[OrangePi_Zero2.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 22:10:21 On 21.07.2022
