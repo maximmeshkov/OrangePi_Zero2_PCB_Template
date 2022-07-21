@@ -3,3 +3,11 @@
 History
 Project Logs for OrangePi_Zero2
 OrangePi_Zero2.PrjPcbStructure
+*.APR_LIB
+*.apr
+*.DRR
+*.EXTREP
+*.LDP
+*.REP
+*.RUL
+*.zip
